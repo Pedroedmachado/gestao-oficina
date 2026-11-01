@@ -1,0 +1,33 @@
+name: gestao_oficina
+description: Funilar Gestão - Gestão da oficina: carros e O.S. (recepção com checklist, tarefas, insumos liberados por funcionário, custo real), estoque com endereço e fotos, equipe (pintor, funileiro, martelinho…), financeiro com vendas, caixa e resultado por funcionário.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  path_provider: ^2.1.4
+  image_picker: ^1.1.2
+  file_selector: ^1.0.3
+  pdf: ^3.11.1
+  printing: ^5.13.4
+  http: ^1.2.2
+  share_plus: ^10.1.4
+  url_launcher: ^6.3.0
+  cryptography: ^2.7.0
+  crypto: ^3.0.3
+  archive: any
+  google_mlkit_text_recognition: any
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: any
+
+flutter:
+  uses-material-design: true
