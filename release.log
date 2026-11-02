@@ -1,0 +1,75 @@
+dl:
+total 24
+drwxr-xr-x 6 runner runner 4096 Nov  2 22:04 .
+drwxr-xr-x 8 runner runner 4096 Nov  2 22:04 ..
+drwxr-xr-x 3 runner runner 4096 Nov  2 22:04 logs-android-linux
+drwxr-xr-x 2 runner runner 4096 Nov  2 22:04 logs-windows
+drwxr-xr-x 2 runner runner 4096 Nov  2 22:04 out-android-linux
+drwxr-xr-x 2 runner runner 4096 Nov  2 22:04 out-windows
+
+dl/logs-android-linux:
+total 72
+drwxr-xr-x 3 runner runner  4096 Nov  2 22:04 .
+drwxr-xr-x 6 runner runner  4096 Nov  2 22:04 ..
+-rw-r--r-- 1 runner runner     2 Nov  2 22:04 android-linux.status
+-rw-r--r-- 1 runner runner  9006 Nov  2 22:04 android.log
+-rw-r--r-- 1 runner runner 34705 Nov  2 22:04 checks.log
+-rw-r--r-- 1 runner runner  1944 Nov  2 22:04 coverage.txt
+drwxr-xr-x 2 runner runner  4096 Nov  2 22:04 exemplo
+-rw-r--r-- 1 runner runner   121 Nov  2 22:04 linux.log
+
+dl/logs-android-linux/exemplo:
+total 3524
+drwxr-xr-x 2 runner runner   4096 Nov  2 22:04 .
+drwxr-xr-x 3 runner runner   4096 Nov  2 22:04 ..
+-rw-r--r-- 1 runner runner 101459 Nov  2 22:04 ajustes_licenca.png
+-rw-r--r-- 1 runner runner 143787 Nov  2 22:04 avarias_entrada.png
+-rw-r--r-- 1 runner runner  52042 Nov  2 22:04 cadastro_funcionario.png
+-rw-r--r-- 1 runner runner 142434 Nov  2 22:04 caixa_celular.png
+-rw-r--r-- 1 runner runner  92800 Nov  2 22:04 estoque_celular.png
+-rw-r--r-- 1 runner runner 112384 Nov  2 22:04 estoque_insumo.png
+-rw-r--r-- 1 runner runner 158297 Nov  2 22:04 estoque_peca.png
+-rw-r--r-- 1 runner runner 201338 Nov  2 22:04 financeiro_celular.png
+-rw-r--r-- 1 runner runner  81228 Nov  2 22:04 item_ri_r_p.png
+-rw-r--r-- 1 runner runner  71316 Nov  2 22:04 janela_complementos.png
+-rw-r--r-- 1 runner runner  75806 Nov  2 22:04 lancamento_por_peca.png
+-rw-r--r-- 1 runner runner  74213 Nov  2 22:04 lancamento_terceirizado.png
+-rw-r--r-- 1 runner runner 269772 Nov  2 22:04 liberar_lixa.png
+-rw-r--r-- 1 runner runner  42098 Nov  2 22:04 master_desafio.png
+-rw-r--r-- 1 runner runner 109106 Nov  2 22:04 nota_lida.png
+-rw-r--r-- 1 runner runner 113599 Nov  2 22:04 orcamento-exemplo-1.png
+-rw-r--r-- 1 runner runner  83532 Nov  2 22:04 orcamento-exemplo-2.png
+-rw-r--r-- 1 runner runner  12290 Nov  2 22:04 orcamento-exemplo.pdf
+-rw-r--r-- 1 runner runner 368318 Nov  2 22:04 orcamento_complementos.png
+-rw-r--r-- 1 runner runner 175083 Nov  2 22:04 os_gestor.png
+-rw-r--r-- 1 runner runner 163571 Nov  2 22:04 os_producao.png
+-rw-r--r-- 1 runner runner 309764 Nov  2 22:04 preview_celular.png
+-rw-r--r-- 1 runner runner 348662 Nov  2 22:04 preview_desktop.png
+-rw-r--r-- 1 runner runner 100933 Nov  2 22:04 usuarios.png
+-rw-r--r-- 1 runner runner  91536 Nov  2 22:04 vistoria-exemplo-1.png
+-rw-r--r-- 1 runner runner  43936 Nov  2 22:04 vistoria-exemplo-2.png
+-rw-r--r-- 1 runner runner  10111 Nov  2 22:04 vistoria-exemplo.pdf
+
+dl/logs-windows:
+total 24
+drwxr-xr-x 2 runner runner 4096 Nov  2 22:04 .
+drwxr-xr-x 6 runner runner 4096 Nov  2 22:04 ..
+-rw-r--r-- 1 runner runner  612 Nov  2 22:04 updater-test.log
+-rw-r--r-- 1 runner runner  905 Nov  2 22:04 windows-prep.log
+-rw-r--r-- 1 runner runner  135 Nov  2 22:04 windows.log
+-rw-r--r-- 1 runner runner    2 Nov  2 22:04 windows.status
+
+dl/out-android-linux:
+total 112444
+drwxr-xr-x 2 runner runner      4096 Nov  2 22:04 .
+drwxr-xr-x 6 runner runner      4096 Nov  2 22:04 ..
+-rw-r--r-- 1 runner runner 100227008 Nov  2 22:04 Gestao-android.apk
+-rw-r--r-- 1 runner runner  14902879 Nov  2 22:04 Gestao-linux-x64.tar.gz
+
+dl/out-windows:
+total 16540
+drwxr-xr-x 2 runner runner     4096 Nov  2 22:04 .
+drwxr-xr-x 6 runner runner     4096 Nov  2 22:04 ..
+-rw-r--r-- 1 runner runner 16925040 Nov  2 22:04 Gestao-windows-x64.zip
+https://github.com/Pedroedmachado/gestao-oficina/releases/tag/v1.0.6
+RELEASE_OK
